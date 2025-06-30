@@ -31,8 +31,8 @@ Welcome to my GitHub! I'm a passionate and curious learner on a journey through 
 ### 📫 How to Reach Me
 - 📧 Email: [madusudan1470@gmail.com]  
 - 🐦 Twitter: [@madhu ugan]  
-- 💼 LinkedIn: [madhu_sudan_pandia/linkdin]  
-- 🌐 Portfolio: [thatboy.github]
+- 💼 LinkedIn: [https://www.linkedin.com/in/madhu-sudan-pandia-92b369208?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]  
+- 🌐 Portfolio: [https://thatboy-cod.github.io/thatboy.github.io/?fbclid=PAQ0xDSwLPdbRleHRuA2FlbQIxMQABp5iMlDQnctbutDC1T97M9pLyB6LmzTdOGMeTMvo1gy6BZoKflRhliqYouAS-_aem_kxOe-aZ_OTAOoCApDWTBNQ]
 
 ---
 
